@@ -4,4 +4,4 @@ O material do professor Edson Alves da Costa Junior, usado para nos lecionar dur
 
 https://github.com/edsomjr/Paradigmas
 
-Boa parte desse material foi feito em conjunto com a [Maria Eduarda Barbosa](https://github.com/Madu01)
+Boa parte desse material foi feito em conjunto com a [Maria Eduarda Barbosa](https://github.com/Madu01).
